@@ -1,6 +1,6 @@
 # neuroinfer_brainhack24
 
-NeuroInfer (NI) is a meta-analitical tool developed during BrainHack Lucca 2023 to support neuroscientists' inference on fMRI data. 
+NeuroInfer (NI) is a meta-analitical tool developed during BrainHack Lucca 2023 (https://github.com/davidecrc/neuroinfer_brainhack23) to support neuroscientists' inference on fMRI data. 
 
 NI implements a Bayesian approach and it is currently based on a dataset of more than 14,000 fMRI studies (shared with NeuroSynth). 
 
